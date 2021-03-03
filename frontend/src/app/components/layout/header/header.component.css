@@ -1,11 +1,17 @@
 .header {
-    background: #333;
+    background: rgb(1, 24, 66);
     color: #fff;
     text-align: center;
     padding: 10px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+
   }
   
   .header a {
     color: #fff;
     text-decoration: none;
+    font-style: normal;
+    font-weight: 300;
   }

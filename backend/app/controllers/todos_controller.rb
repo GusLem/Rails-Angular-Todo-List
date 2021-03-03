@@ -36,8 +36,6 @@ class TodosController < ApplicationController
         end
     end
 
-    
-
     private
 
     def todo_params
